@@ -1,0 +1,19 @@
+{
+    "name": "simonisonline/orherdemoother",
+    "description": "mit",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "simon",
+            "email": "info@simonisonline.nl"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "orherdemoother\\": "folders"
+            }
+    }
+}
